@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![giphy](https://github.com/gushitig/gushitig/assets/106504064/5e222ddc-f964-4f19-915a-206d9029cda3)
+
 <!--
 **gushitig/gushitig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
