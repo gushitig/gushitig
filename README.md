@@ -1,3 +1,4 @@
+### <div align="center">🌿 Howdy, I'm Christina 🌿</div>  
 ### <div align="center">Please enjoy this actual footage of me learning to code: </div>
 
 
@@ -5,8 +6,6 @@
 <img src="https://github.com/gushitig/gushitig/assets/106504064/334ca12d-a419-4c62-b4f9-13674daf6982" align="center" style="width: 30%" />
 </div>  
 
-
-### <div align="center">🌿 Howdy, I'm Christina 🌿</div>  
 
 - 👩‍ A recent full-stack web developer graduate from Codeup.
 
@@ -62,13 +61,14 @@
 
 <br/>  
 
-<div align="center">
+<!-- <div align="center">
             <a href="https://www.buymeacoffee.com/antonuccio" target="_blank" style="display: inline-block;">
                 <img
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
                 />
-            </a></div>
+            </a>
+</div> -->
 <br />
 
 ----
