@@ -2,13 +2,13 @@
 
 
 <div align="center">
-<img src="https://github.com/gushitig/gushitig/assets/106504064/5e222ddc-f964-4f19-915a-206d9029cda3" align="center" style="width: 100%" />
+<img src="https://github.com/gushitig/gushitig/assets/106504064/5e222ddc-f964-4f19-915a-206d9029cda3" align="center" style="width: 50%" />
 </div>  
   
 
-### <div align="center">🌿 Howdy, I'm Christina 🌿
+### <div align="center">🌿 Howdy, I'm Christina 🌿</div>  
 
-a recent full-stack web developer graduate from Codeup 👩‍💻</div>  
+- 👩‍ I'm a recent full-stack web developer graduate from Codeup.
   
 
 - 🔭 I’m currently working on solidifying the knowledge I've learned these last 6 months.  
@@ -20,18 +20,15 @@ a recent full-stack web developer graduate from Codeup 👩‍💻</div>
 - ❓ Ask me about anything related to cats. Or front end. :)  
   
 
-- ⚡ Fun fact: I train in my spare time for  downhill and enduro mountain biking.  
+- ⚡ Fun fact: I train in my spare time for downhill and enduro mountain biking.  
   
 
 <br/>  
 
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table><tr><td valign="top" width="100%">
 
-
-
-### Frontend  
 <div align="center">  
   
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a> 
