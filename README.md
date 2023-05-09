@@ -2,9 +2,9 @@
 
 
 <div align="center">
-<img src="https://github.com/gushitig/gushitig/assets/106504064/5e222ddc-f964-4f19-915a-206d9029cda3" align="center" style="width: 30%" />
+<img src="https://github.com/gushitig/gushitig/assets/106504064/334ca12d-a419-4c62-b4f9-13674daf6982" align="center" style="width: 30%" />
 </div>  
-  
+
 
 ### <div align="center">🌿 Howdy, I'm Christina 🌿</div>  
 
