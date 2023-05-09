@@ -44,7 +44,7 @@
   
 </div>
 
-</td><td valign="top" width="50%">
+</td><td valign="bottom" width="50%">
 
 
 <br/>  
