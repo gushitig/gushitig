@@ -1,25 +1,23 @@
-### Please enjoy this actual footage of me learning to code:
+### <div align="center">Please enjoy this actual footage of me learning to code: </div>
 
 
 <div align="center">
-<img src="https://github.com/gushitig/gushitig/assets/106504064/5e222ddc-f964-4f19-915a-206d9029cda3" align="center" style="width: 50%" />
+<img src="https://github.com/gushitig/gushitig/assets/106504064/5e222ddc-f964-4f19-915a-206d9029cda3" align="center" style="width: 30%" />
 </div>  
   
 
 ### <div align="center">🌿 Howdy, I'm Christina 🌿</div>  
 
-- 👩‍ I'm a recent full-stack web developer graduate from Codeup.
-  
+- 👩‍ A recent full-stack web developer graduate from Codeup.
+
+- 🌎 Located in San Antonio, TX, but willing to relocate.
 
 - 🔭 I’m currently working on solidifying the knowledge I've learned these last 6 months.  
   
-
 - 🌱 I’m currently learning React in my own time in order to expand my personal knowledge post course completion.  
   
-
 - ❓ Ask me about anything related to cats. Or front end. :)  
   
-
 - ⚡ Fun fact: I train in my spare time for downhill and enduro mountain biking.  
   
 
