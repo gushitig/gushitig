@@ -17,7 +17,7 @@
   
 - ❓ Ask me about anything related to cats. Or front end. :)  
   
-- ⚡ Fun fact: I train in my spare time for downhill and enduro mountain biking.  
+- ⚡ Fun fact: I train in my spare time for downhill and enduro mountain bike racing.  
   
 
 <br/>  
