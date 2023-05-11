@@ -1,5 +1,5 @@
 ### <div align="center">🌿 Howdy, I'm Christina 🌿</div>  
-### <div align="center">Please enjoy this actual footage of me learning to code: </div>
+### <div align="center">Please enjoy this actual footage of me coding: </div>
 
 
 <div align="center">
