@@ -9,7 +9,7 @@
 
 - 👩‍ A recent full-stack web developer graduate from Codeup.
 
-- 🌎 Located in San Antonio, TX, but willing to relocate.
+- 🌎 Located in San Antonio, TX.
 
 - 🔭 I’m currently working on solidifying the knowledge I've learned these last 6 months.  
   
